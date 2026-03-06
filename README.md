@@ -4,9 +4,9 @@
 
 Foundry OS is a local-first autonomous venture studio prototype built for founders, operators, and product teams who want to spin up businesses quickly and see the full operating system around them. Create a company, generate its agent bench, run execution cycles, and watch the public portfolio, fund view, and live feed update from the same runtime state.
 
-<video src="assets/foundry-os-demo.mp4" controls muted playsinline width="100%"></video>
+![Foundry OS demo](assets/foundry-os-demo.gif)
 
-[Download or open the demo video directly](assets/foundry-os-demo.mp4)
+[Open the full demo video](assets/foundry-os-demo.mp4)
 
 ## Why this exists
 
